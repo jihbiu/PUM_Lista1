@@ -1,0 +1,10 @@
+0At terminal velocity, all motion stops.
+0Your mass on Earth is different than your mass on Mars.
+0A rocket is propelled through space by the exhaust gases pushing against air.
+1In a vacuum, all objects fall toward the center of the Earth with the same acceleration.
+1Friction is a force that opposes motion
+0Mass and weight are the same.
+0Once moving at a constant speed, you still have to pedal your bike to keep moving at that speed. This violates Newton's first law of motion.
+0If an object is not moving, no forces are acting on it
+0The center of gravity is always in the middle of the object
+1Water can boil in other temperatures than 100C degrees
